@@ -1,0 +1,42 @@
+export const blogArticles = [
+    {
+        slug: "how-to-download-instagram-reels",
+        title: "How to Download Instagram Reels in 2025 - Complete Guide",
+        description: "Learn how to download Instagram Reels easily and quickly. Step-by-step guide with tips, tricks, and best practices for saving Instagram videos.",
+        date: "2025-12-02",
+        readTime: "5 min read",
+        category: "Guides",
+    },
+    {
+        slug: "instagram-video-formats-explained",
+        title: "Instagram Video Formats Explained: Reels, Stories, IGTV & More",
+        description: "Understanding different Instagram video formats, their specifications, and best practices for each type of content.",
+        date: "2025-12-01",
+        readTime: "4 min read",
+        category: "Education",
+    },
+    {
+        slug: "tips-for-instagram-content-creators",
+        title: "10 Essential Tips for Instagram Content Creators in 2025",
+        description: "Boost your Instagram presence with these proven strategies for content creation, engagement, and growth.",
+        date: "2025-11-30",
+        readTime: "6 min read",
+        category: "Tips",
+    },
+    {
+        slug: "instagram-privacy-copyright-guide",
+        title: "Instagram Privacy & Copyright: What You Need to Know",
+        description: "Complete guide to Instagram's privacy settings, copyright laws, and how to use content responsibly.",
+        date: "2025-11-29",
+        readTime: "5 min read",
+        category: "Legal",
+    },
+    {
+        slug: "social-media-content-best-practices",
+        title: "Social Media Content Best Practices for Maximum Engagement",
+        description: "Master the art of social media content creation with these proven best practices and strategies.",
+        date: "2025-11-28",
+        readTime: "5 min read",
+        category: "Strategy",
+    },
+];
