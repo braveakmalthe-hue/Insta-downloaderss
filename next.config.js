@@ -1,5 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  basePath: '/Insta-downloaderss',
+  output: 'export',
+  images: {
+    unoptimized: true,
+  },
   async headers() {
     return [
       {

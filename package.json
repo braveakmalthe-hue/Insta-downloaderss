@@ -2,13 +2,12 @@
   "name": "instagram-videos-downloader",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://braveakmalthe-hue.github.io/Insta-downloaderss/",
   "scripts": {
     "dev": "next dev",
-    "dev:turbo": "next dev --turbo",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint",
-    "prettier": "prettier --write ."
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d out -t"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.3.4",
@@ -44,6 +43,7 @@
     "clsx": "^2.1.0",
     "eslint": "^8",
     "eslint-config-next": "14.0.3",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.4.31",
     "prettier": "^3.1.0",
     "prettier-plugin-tailwindcss": "^0.5.7",
