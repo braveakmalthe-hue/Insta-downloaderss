@@ -16,7 +16,7 @@ You can preview and try the website live on Vercel here: [instagram-reels-downlo
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/riad-azz/Instagram-reels-downloader.git
+git clone https://github.com/braveakmalthe-hue/Insta-downloaderss.git
 ```
 
 ### 2. Install dependencies
