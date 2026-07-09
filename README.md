@@ -22,7 +22,7 @@ git clone https://github.com/braveakmalthe-hue/Insta-downloaderss.git
 ### 2. Install dependencies
 
 ```bash
-cd Instagram-reels-downloader
+cd Insta-downloaderss
 npm install
 ```
 
